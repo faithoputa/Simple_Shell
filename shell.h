@@ -3,7 +3,8 @@
 
 /*
  * File: shell.h
- * Auth: Faith Ifunanya Oputa
+ * Auths: Faith Ifunanya Oputa
+ * 	  Gomina Joseph
  */
 
 #include <fcntl.h>
