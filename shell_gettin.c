@@ -1,8 +1,8 @@
 #include "shell.h"
 
 /**
- * File: getline.c
- * Auth: Faith Ifunanya Oputa
+ * File: shell_gettin.c
+ * Auth: Faith Ifunanya Oputa Gomina Joseph
  */
 
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
