@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * File: linkedlist.c
+ * File: linkin_bulitin.c
  * Auth: Faith Ifunanya Oputa gomina joseph
  */
 
