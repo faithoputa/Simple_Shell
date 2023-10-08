@@ -1,4 +1,4 @@
-This Simple_shell Project is a Team Project for Alx cohort 13 and it is it done by the following Authours:
+This Simple_shell Project is a Team Project for Alx cohort 18 and it is it done by the following Authours:
 
 Authours: Miss FAITH OPUTA and MR. Gomina Jospeh.
 
