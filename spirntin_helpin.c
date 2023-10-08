@@ -1,6 +1,7 @@
 /*
  * File: spirntin_helpin.c
  * Auth: Faith Ifunanya Oputa
+ * 		Gomina Joseph
  */
 
 #include "shell.h"
@@ -89,5 +90,3 @@ char *_strncat(char *dest, const char *src, size_t n)
 
 	return (dest);
 }
- 111 changes: 111 additions & 0 deletions111  
-s

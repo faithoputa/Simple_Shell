@@ -3,6 +3,7 @@
 /**
  * File: helpin_lookin.c
  * Auth: Faith Ifunanya Oputa
+ * 		Gomina Joseph
  */
 
 char *fill_path_dir(char *path);
@@ -140,8 +141,6 @@ list_t *get_path_dir(char *path)
 	}
 
 	free(dirs);
-
+	
 	return (head);
 }
- 139 changes: 139 additions & 0 deletions139  
-m
